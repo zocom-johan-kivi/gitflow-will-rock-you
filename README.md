@@ -11,13 +11,13 @@ Syftet med denna övning är att öva på följande *gitkoncept*:
 - git clone
 - git commit
 - git push
-- git branch <branch-name>
+- git branch
 - git merge
 
 ## Setup
 Börja med att rigga ditt repo efter [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) med brancherna *main* och *develop*.
 
-Varje Feature nedan ska vara en *feature branch* i ```rockyou.md```. 
+Varje Feature nedan ska vara en *feature branch* i vilken du uppdaterar filen ```rockyou.md``` under varje rubrik ( verse 1, chorus 1 etc... ). 
 
 Sista mergen sker in i *main* grenen.
 
